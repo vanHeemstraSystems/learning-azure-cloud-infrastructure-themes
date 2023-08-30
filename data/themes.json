@@ -2,25 +2,30 @@
   "name": "themes",
   "children": [
     {
-      "name": "Security",
+      "name": "Computing",
       "children": [
         {
-          "name": "Cyber Security",
+          "name": "Cloud Computing",
           "children": [
             {
-              "name": "Cloud Security",
+              "name": "Azure Cloud Computing",
               "children": [
                 {
-                  "name": "Azure Cloud Security",
+                  "name": "Azure Cloud Infrastructure",
                   "children": [
                     {
-                      "name": "Azure Active Directory",
+                      "name": "Azure Governance",
                       "value": 50
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "name": "Google Cloud Computing",
+              "children": [
                 {
-                  "name": "Google Cloud Security",
+                  "name": "Google Cloud Infrastructure",
                   "value": 50
                 }
               ]
