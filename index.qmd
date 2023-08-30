@@ -36,4 +36,4 @@ __topicsChart = {
 }
 ```
 
-# Master Azure Active Directory
+# Master Azure Governance
