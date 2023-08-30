@@ -5,7 +5,7 @@ learning-azure-cloud-infrastructure-themes
 
 Part of "Learning - Cloud Computing" at https://github.com/vanHeemstraSystems/learning-cloud-computing
 
-Can be read as "Learning Azure Cloud Infrastructure - Themes" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+Can be read as "Learning Azure Cloud Infrastructure - Themes" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/AvZoKQQUy0VQGdBNpeWZ/
 
 Can be browsed as "Learning Azure Cloud Infrastructure - Themes" at https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-themes/
 
