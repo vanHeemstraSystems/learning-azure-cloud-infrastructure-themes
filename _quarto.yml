@@ -16,6 +16,7 @@ website:
       - azure-data-integration.qmd
       - azure-application-architecture.qmd
       - azure-authentication-and-authorization.qmd
+      - azure-monitoring.qmd
 
 format:
   html:
