@@ -44,6 +44,10 @@
                     {
                       "name": "Azure Monitoring",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Networks",
+                      "value": 50
                     }
                   ]
                 }
