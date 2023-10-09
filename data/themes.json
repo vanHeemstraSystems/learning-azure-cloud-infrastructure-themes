@@ -28,6 +28,14 @@
                     {
                       "name": "Azure Storage (Relational)",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Data Integration",
+                      "value": 50
+                    },
+                    {
+                      "name": "Azure Application Architecture",
+                      "value": 50
                     }
                   ]
                 }
