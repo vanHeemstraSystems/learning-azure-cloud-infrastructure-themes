@@ -41,3 +41,5 @@ __topicsChart = {
 # Master Azure Compute
 
 # Master Azure Storage (Non-Relational)
+
+# Master Azure Storage (Relational)
