@@ -20,6 +20,14 @@
                     {
                       "name": "Azure Compute",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Storage (Non-Relational)",
+                      "value": 50
+                    },
+                    {
+                      "name": "Azure Storage (Relational)",
+                      "value": 50
                     }
                   ]
                 }
