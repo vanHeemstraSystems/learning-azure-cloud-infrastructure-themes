@@ -13,6 +13,8 @@ website:
       - azure-compute.qmd
       - azure-storage-non-relational.qmd
       - azure-storage-relational.qmd
+      - azure-data-integration.qmd
+      - azure-application-architecture.qmd
 
 format:
   html:
