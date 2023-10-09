@@ -19,6 +19,7 @@ website:
       - azure-monitoring.qmd
       - azure-networks.qmd
       - azure-busines-continuity-and-disaster-recovery.qmd
+      - azure-migrations.qmd
 
 format:
   html:
