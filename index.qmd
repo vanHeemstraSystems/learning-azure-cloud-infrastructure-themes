@@ -49,3 +49,5 @@ __topicsChart = {
 # Master Azure Application Architecture
 
 # Master Azure Authentication and Authorization
+
+# Master Azure Monitoring
