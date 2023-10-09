@@ -18,6 +18,7 @@ website:
       - azure-authentication-and-authorization.qmd
       - azure-monitoring.qmd
       - azure-networks.qmd
+      - azure-busines-continuity-and-disaster-recovery.qmd
 
 format:
   html:
