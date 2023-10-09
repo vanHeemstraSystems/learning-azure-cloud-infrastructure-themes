@@ -11,6 +11,8 @@ website:
       - about.qmd
       - azure-governance.qmd
       - azure-compute.qmd
+      - azure-storage-non-relational.qmd
+      - azure-storage-relational.qmd
 
 format:
   html:
