@@ -47,3 +47,5 @@ __topicsChart = {
 # Master Azure Data Integration
 
 # Master Azure Application Architecture
+
+# Master Azure Authentication and Authorization
