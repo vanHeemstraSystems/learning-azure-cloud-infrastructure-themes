@@ -15,6 +15,7 @@ website:
       - azure-storage-relational.qmd
       - azure-data-integration.qmd
       - azure-application-architecture.qmd
+      - azure-authentication-and-authorization.qmd
 
 format:
   html:
