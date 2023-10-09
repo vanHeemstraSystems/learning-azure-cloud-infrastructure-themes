@@ -40,6 +40,10 @@
                     {
                       "name": "Azure Authentication and Authorization",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Monitoring",
+                      "value": 50
                     }
                   ]
                 }
