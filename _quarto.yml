@@ -17,6 +17,7 @@ website:
       - azure-application-architecture.qmd
       - azure-authentication-and-authorization.qmd
       - azure-monitoring.qmd
+      - azure-networks.qmd
 
 format:
   html:
