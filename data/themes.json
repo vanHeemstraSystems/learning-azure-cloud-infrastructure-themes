@@ -16,6 +16,10 @@
                     {
                       "name": "Azure Governance",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Compute",
+                      "value": 50
                     }
                   ]
                 }
