@@ -48,6 +48,10 @@
                     {
                       "name": "Azure Networks",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Business Continuity and Disaster Recovery",
+                      "value": 50
                     }
                   ]
                 }
