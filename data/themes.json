@@ -52,6 +52,10 @@
                     {
                       "name": "Azure Business Continuity and Disaster Recovery",
                       "value": 50
+                    },
+                    {
+                      "name": "Azure Migrations",
+                      "value": 50
                     }
                   ]
                 }
