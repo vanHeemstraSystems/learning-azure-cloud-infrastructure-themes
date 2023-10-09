@@ -46,4 +46,4 @@ __topicsChart = {
 
 # Master Azure Data Integration
 
-# Master Azure Application Integration
+# Master Azure Application Architecture
