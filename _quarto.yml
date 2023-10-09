@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - azure-governance.qmd
+      - azure-compute.qmd
 
 format:
   html:
