@@ -43,3 +43,7 @@ __topicsChart = {
 # Master Azure Storage (Non-Relational)
 
 # Master Azure Storage (Relational)
+
+# Master Azure Data Integration
+
+# Master Azure Application Integration
