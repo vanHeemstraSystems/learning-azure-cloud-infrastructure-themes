@@ -21,11 +21,32 @@
     "text": "About this site"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
+    "objectID": "azure-data-integration.html",
+    "href": "azure-data-integration.html",
+    "title": "Azure Data Integration",
     "section": "",
-    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Themes"
+    "text": "About this site\nWe base our Theme: Master Azure Data Integration on Planning a Minimum Viable Nothing (MVN)."
+  },
+  {
+    "objectID": "azure-data-integration.html#find-the-opportunities.",
+    "href": "azure-data-integration.html#find-the-opportunities.",
+    "title": "Azure Data Integration",
+    "section": "2. Find the Opportunities.",
+    "text": "2. Find the Opportunities.\nSee Learning - Azure Data Integration\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
+  },
+  {
+    "objectID": "azure-governance.html",
+    "href": "azure-governance.html",
+    "title": "Azure Governance",
+    "section": "",
+    "text": "About this site\nWe base our Theme: Master Azure Governance on Planning a Minimum Viable Nothing (MVN)."
+  },
+  {
+    "objectID": "azure-governance.html#find-the-opportunities.",
+    "href": "azure-governance.html#find-the-opportunities.",
+    "title": "Azure Governance",
+    "section": "2. Find the Opportunities.",
+    "text": "2. Find the Opportunities.\nSee Learning - Azure Governance\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
   },
   {
     "objectID": "azure-compute.html",
@@ -42,18 +63,11 @@
     "text": "2. Find the Opportunities.\nSee Learning - Azure Compute\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
   },
   {
-    "objectID": "azure-governance.html",
-    "href": "azure-governance.html",
-    "title": "Azure Governance",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "About this site\nWe base our Theme: Master Azure Governance on Planning a Minimum Viable Nothing (MVN)."
-  },
-  {
-    "objectID": "azure-governance.html#find-the-opportunities.",
-    "href": "azure-governance.html#find-the-opportunities.",
-    "title": "Azure Governance",
-    "section": "2. Find the Opportunities.",
-    "text": "2. Find the Opportunities.\nSee Learning - Azure Governance\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
+    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Themes"
   },
   {
     "objectID": "index.html",
